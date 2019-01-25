@@ -1,0 +1,49 @@
+Windows PowerShell
+
+$ git init
+
+Reinitialized existing Git repository in C:/Users/*******/react-long-journey/.git/
+
+
+$ git remote add origin https://github.com/haribhai/react-long-journey.git
+
+$ git remote -v
+
+
+origin  https://github.com/haribhai/react-long-journey.git (fetch)
+origin  https://github.com/haribhai/react-long-journey.git (push)
+
+
+$ git push -u origin master
+
+$ npm install gh-pages --save-dev
+
++ gh-pages@2.0.1
+added 16 packages from 4 contributors and audited 35871 packages in 22.13s
+found 0 vulnerabilities
+
+$ npm run deploy
+
+> npm run build
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  34.71 KB  build\static\js\1.fa92c112.chunk.js
+  777 B     build\static\js\runtime~main.b8c9db11.js
+  713 B     build\static\js\main.b5ef2046.chunk.js
+  510 B     build\static\css\main.ad87f13f.chunk.css
+
+The project was built assuming it is hosted at /react-long-journey/.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+To publish it at https://haribhai.github.io/react-long-journey, run:
+
+> npm run deploy
+> gh-pages -d build
+
+Published
