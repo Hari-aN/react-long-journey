@@ -1,14 +1,13 @@
 {
-  "main.css": "/react-long-journey/static/css/main.ad87f13f.chunk.css",
-  "main.js": "/react-long-journey/static/js/main.b5ef2046.chunk.js",
-  "main.js.map": "/react-long-journey/static/js/main.b5ef2046.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/react-long-journey/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/react-long-journey/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/react-long-journey/static/css/main.088506a9.chunk.css",
+  "main.js": "/react-long-journey/static/js/main.3be52062.chunk.js",
+  "main.js.map": "/react-long-journey/static/js/main.3be52062.chunk.js.map",
+  "static/js/1.55077fad.chunk.js": "/react-long-journey/static/js/1.55077fad.chunk.js",
+  "static/js/1.55077fad.chunk.js.map": "/react-long-journey/static/js/1.55077fad.chunk.js.map",
   "runtime~main.js": "/react-long-journey/static/js/runtime~main.b8c9db11.js",
   "runtime~main.js.map": "/react-long-journey/static/js/runtime~main.b8c9db11.js.map",
-  "static/media/logo.svg": "/react-long-journey/static/media/logo.5d5d9eef.svg",
-  "static/css/main.ad87f13f.chunk.css.map": "/react-long-journey/static/css/main.ad87f13f.chunk.css.map",
+  "static/css/main.088506a9.chunk.css.map": "/react-long-journey/static/css/main.088506a9.chunk.css.map",
   "index.html": "/react-long-journey/index.html",
-  "precache-manifest.5963d49e5d2dc924c685386526942744.js": "/react-long-journey/precache-manifest.5963d49e5d2dc924c685386526942744.js",
+  "precache-manifest.adcf212b03aae7ab74fd89a9b5f622e7.js": "/react-long-journey/precache-manifest.adcf212b03aae7ab74fd89a9b5f622e7.js",
   "service-worker.js": "/react-long-journey/service-worker.js"
 }
