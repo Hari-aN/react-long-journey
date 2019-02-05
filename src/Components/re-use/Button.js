@@ -1,11 +1,6 @@
 import * as React from "react";
 
 class Button extends React.Component{
-  constructor(props) {
-    super(props);
-  }
-
-
   handleButtonClick = (e) => {
 
     this.props.handleButtonClick(e.target.value);
